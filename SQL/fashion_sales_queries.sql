@@ -182,42 +182,4 @@ ORDER BY total_discounted_revenue DESC
 limit 10;
 
 
--- Pricing & Discount Strategy:
 
--- 1. Do discounts increase the quantity of products sold?
-
--- 2. Which product categories receive the highest discounts?
-
--- 3. Which products generate the most revenue after discounts?
-
--- 4. Are highly discounted products actually more profitable in terms of sales revenue?
-
--- 5. Which categories perform well without heavy discounts?
-
-
--- Seasonal Performance:
-
--- 1. Which months generate the highest sales?
-
--- 2. Which seasons generate the most revenue?
-
--- 3. Which product categories perform best in each season?
-
--- 4. Are there products whose sales are strongly associated with particular seasons?
-
--- 5. When should the company increase inventory for high-demand products?
-
-
--- Business Strategy:
-
--- 1. Which product categories should the company prioritize?
-
--- 2. Which products should receive more inventory?
-
--- 3. Which products may require promotional campaigns?
-
--- 4. Which sales channel should receive more investment?
-
--- 5. Which regions represent the strongest markets?
-
--- 6. How should the company adjust its seasonal product strategy?
